@@ -8,4 +8,4 @@ I'm a full-stack developer, and ethical hacker who is passionate about writing c
 
 ![hassamohammed's Stats](https://github-readme-stats.vercel.app/api?username=hassamohammed&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![hassamohammed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassamohammed&theme=tokyonight&hide_border=false)
-![hassamohammed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassamohammed&theme=tokyonight&show_icons=true&hide_border=false&compact=true)
+![hassamohammed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassamohammed&theme=tokyonight&show_icons=true&hide_border=false)
