@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <img width="35%" align="right" alt="Github" src="https://avatars.githubusercontent.com/u/64049917?v=4" />
 
