@@ -1,10 +1,9 @@
 ### Hey there 👋
 
-<img width="35%" align="right" alt="Github" src="https://avatars.githubusercontent.com/u/64049917?v=4" />
-
 student, software developer, ethical hacker, cybersecurity expert, full stack web developer
 
 I have most of my projects private for now.. I have to gatekeep a little bit, sorry
+
 
 ⭐️ From [hassamohammed](https://github.com/hassamohammed)
 
