@@ -20,6 +20,3 @@ I have most of my projects private for now.. I have to gatekeep a little bit, so
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=hassamohammed&icon=0&color=0)](https://visitcount.itsvg.in)
